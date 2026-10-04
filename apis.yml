@@ -54,7 +54,7 @@ tags:
 - Cryptocurrency
 - Bitcoin
 - E-Commerce
-- Open-Source
+- Open Source
 - Blockchain
 tags_raw:
 - Company
@@ -66,6 +66,7 @@ tags_raw:
 - E-Commerce
 - Open Source
 - Blockchain
+- Open-Source
 apis: []
 x-enrichment:
   date: '2026-07-20'
